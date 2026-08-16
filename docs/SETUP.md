@@ -42,6 +42,10 @@ This starts the BullMQ worker defined in `Backend/src/queue/email.worker.js`.
 
 The project uses Prisma with PostgreSQL.
 
+**Database Schema:**
+[📊 **View database schema diagram in DrawDB**]
+(https://www.drawdb.app/share/JlTUB5OMRd_CKQ3JfA8L55OP)
+
 Required connection string:
 
 ```env

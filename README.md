@@ -89,6 +89,15 @@ docker compose up --build
 
 This configuration starts the API, worker, PostgreSQL, and Redis services defined in `Backend/docker-compose.yml`.
 
+## Database schema
+
+The complete database schema with all models and relationships is visualized in DrawDB:
+
+[📊 **View Database Schema Diagram**]
+(https://www.drawdb.app/share/JlTUB5OMRd_CKQ3JfA8L55OP)
+
+For local schema details, see `Backend/prisma/schema.prisma`.
+
 ## API documentation
 
 The app exposes Swagger UI at:

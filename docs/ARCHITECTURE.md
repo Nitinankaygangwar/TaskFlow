@@ -33,6 +33,10 @@ The main data model includes:
 
 The schema includes tenant isolation via `organizationId` and uses enums for status, priority, and roles.
 
+**Visual Database Diagram:**
+[📊 **View complete schema with relationships in DrawDB**]
+(https://www.drawdb.app/share/JlTUB5OMRd_CKQ3JfA8L55OP)
+
 ### 3. Authentication and tenancy
 Authentication is centered around JWTs generated in `Backend/src/utils/jwt.js`.
 
