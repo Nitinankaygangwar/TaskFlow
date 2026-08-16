@@ -104,7 +104,6 @@ The generated OpenAPI definition is configured in `Backend/src/docs/openapi.js` 
 - `docs/SETUP.md` — local and Docker setup guide
 - `docs/SECURITY.md` — security controls implemented in code
 - `docs/DEMO.md` — sample workflow for demonstrating the app
-- `docs/SUBMISSION.md` — submission checklist and validation steps
 - `docs/openapi.yaml` — OpenAPI document derived from the current implementation
 
 ## Important implementation notes
